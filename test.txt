@@ -1,0 +1,11 @@
+query {
+	events {
+		title
+	}
+}
+
+mutation {
+  createEvent(eventInput: {title: "EventTitle", description: "EventDescription", price: 10 }){
+    price
+  }
+}

@@ -1,6 +1,7 @@
 {
     "env": {
-        "MONGO_USER": "max",
-        "MONGO_PASSWORD": "iV6rzXw2yxodUNTy"
+        "MONGO_USER": "max-test",
+        "MONGO_PASSWORD": "1Qyz51KWeCQoPV8O",
+        "MONGO_DB": "graphql-test"
     }
 }
